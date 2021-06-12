@@ -1,0 +1,8 @@
+11. Branch in git. - In Git, branches are a part of your everyday development process. Git
+branches are effectively a pointer to a snapshot of your changes. When you want to add a new
+feature or fix a bug—no matter how big or how small—you spawn a new branch to encapsulate
+your changes.
+
+=================================================================================================
+
+Use comment git branch <Branch Name>
